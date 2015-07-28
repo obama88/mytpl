@@ -1,5 +1,6 @@
 msFilterList
 : Expires=7
+-d hm.baidu.com
 -d ad.rmm520.com
 -d js.mosa86.com
 -d *.25union.com
@@ -123,4 +124,7 @@ msFilterList
 -d www.yth111.com
 -d baigong.sdrxdz.com
 -d www.tz012.com
+-d 3w.yiwad.com
+-d 4shw.com
+-d js.csad.cc:99
 ####end
