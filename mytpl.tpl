@@ -1,5 +1,6 @@
 msFilterList
 : Expires=7
+- /lenovo/pc/
 -d hm.baidu.com
 -d ad.rmm520.com
 -d js.mosa86.com
