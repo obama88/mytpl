@@ -2,6 +2,8 @@ msFilterList
 : Expires=7
 - /lenovo/pc/
 -d hm.baidu.com
+-d pos.baidu.com
+-d baidustatic.com
 -d ad.rmm520.com
 -d js.mosa86.com
 -d *.25union.com
