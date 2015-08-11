@@ -112,6 +112,7 @@ msFilterList
 #+d www.google.com.*/uds/
 #+d www.google.co.*/uds/
 #-d srbav.com/dt.js
+-d ueadian.com
 -d www.1300js.com
 -d www.9amhg.com
 -d www.aamm66.com
