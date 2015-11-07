@@ -137,7 +137,7 @@ msFilterList
 -d cy.hsslx.com
 -d s.pdsjycm.com
 -d hyz86.com
--d ta80.com
+-d good.ta80.com
 -d cms10086.com
 -d 6dad.com
 -d 8ox.cn
