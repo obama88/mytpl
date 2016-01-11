@@ -174,4 +174,5 @@ msFilterList
 -d flp555.com
 -d vic4455.com
 -d vns10000.com
+-d popads.net
 ####end
