@@ -175,4 +175,5 @@ msFilterList
 -d vic4455.com
 -d vns10000.com
 -d popads.net
+-d changyan.sohu.com
 ####end
