@@ -176,4 +176,5 @@ msFilterList
 -d vns10000.com
 -d popads.net
 -d changyan.sohu.com
+-d p2.hyz86.com
 ####end
